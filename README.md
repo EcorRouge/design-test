@@ -1,7 +1,5 @@
 # design-test
-A simple HTML certificate template for showcasing design skills.
-
-This certificate will be rendered to a PDF and a lot of users will print it.
+This certificate is a license for a SaaS app and will be rendered to a PDF.  Most users will print it.
 
 The app logo can be found at https://test.reveles.ai/
 
