@@ -1,5 +1,5 @@
 # design-test
-This certificate is a license for a SaaS app and will be rendered to a PDF.  Most users will print it.
+This template is a license for a SaaS app and will be rendered to a PDF using Python in another part of the system.  Most users will print it.
 
 The app logo can be found at https://test.reveles.ai/
 
